@@ -1,16 +1,15 @@
-## Hi there 👋
+Hello, I'm Yashwanth Chowdary Kanaparthi.
+Aspiring Data Scientist with a strong foundation in data analysis, machine learning, and statistical modeling.
 
-<!--
-**yashwanthkanaparthi/yashwanthkanaparthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Expertise in querying data using SQL, performing data analysis, and building data-driven solutions.
+Proficient in generating reports and conducting in-depth analysis using Python, Excel, and SQL.
+Skilled in developing interactive dashboards using Tableau and Power BI to visualize insights and drive decisions.
 
-Here are some ideas to get you started:
+📚 Projects
+Welcome to my portfolio, where I showcase the projects that highlight my skills and passion for data science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tools
+Language: Python, SQL
+Database: MySQL, PostgreSQL
+Visualization: Tableau, Power BI
+Statistical Analysis: Python (Pandas, NumPy, Scikit-learn)
